@@ -558,7 +558,7 @@ const AppContent = () => {
 
 const App = () => {
   return (
-    <Router>
+    <Router basename="/LondonAdvancedMotoristsWeb">
       <AppContent />
     </Router>
   );
